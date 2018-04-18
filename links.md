@@ -7,7 +7,7 @@
 
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [Stackoverflow for Questions](http://stackoverflow.com/)
-* [Coursera]
+* [Coursera](https://www.coursera.org/)
 
 ## Processing variations
 
