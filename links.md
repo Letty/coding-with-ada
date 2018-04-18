@@ -35,5 +35,11 @@
 ## General Online Courses (Free)
 * [Coursera](https://www.coursera.org/)
 * [Kadenze](https://www.kadenze.com/)
-* [Codeacademy](https://www.codecademy.com/learn
-* Youtube of course!
+* [Codeacademy](https://www.codecademy.com/learn)
+* Youtube of course.
+
+## Women in Code
+### Ada Lovelace
+* [Stephen Wolfram's blog](http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
+* [Lego Proposal](https://io9.gizmodo.com/bring-back-victorian-science-with-this-lego-lovelace-b-1747433388?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow)
+* [Short Video](https://www.youtube.com/watch?v=uBbVbqRvqTM)
