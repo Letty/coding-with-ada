@@ -12,6 +12,7 @@
 ## Processing variations
 
 * [Javascript P5.js](https://p5js.org/)
+* [P5 Editor in the Web](https://alpha.editor.p5js.org)
 * [Python](http://py.processing.org/)
 * [Java](http://processing.org/)
 
@@ -27,3 +28,8 @@
 * [SVG by W3C](https://www.w3.org/TR/SVG/) 
 * [CSSClasses](http://cssclass.es/materials/)
 * WebDev try and error in the browser [JSFiddle](http://jsfiddle.net/)
+* [Codecircle](https://live.codecircle.com)
+* [Codepen](https://codepen.io)
+* [A-Frame](https://aframe.io)
+* [A-Frame School](https://aframe.io/aframe-school/)
+* [Glitch](https://glitch.com)
