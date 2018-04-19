@@ -6,40 +6,41 @@
 * [Stackoverflow for Questions](http://stackoverflow.com/)
 
 ## Creative Coding
-* [Generative Art](https://github.com/kosmos/awesome-generative-art)
-* [openFrameworks](https://www.youtube.com/watch?v=bmztlO9_Wvo)
-* Starter templates and community for creative coding [Codecircle](https://live.codecircle.com)
-* [Codepen](https://codepen.io)
+* [Introduction to Programming for the Visual Arts with P5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/) University of California
+* [Creative Programming for Audiovisual Art](https://www.kadenze.com/courses/creative-programming-for-audiovisual-art) Goldsmiths University of London
+* [Codecircle](https://live.codecircle.com) Online editor with starter templates for creative coding 
+* [Codepen](https://codepen.io) Online editor and code sharing platform
+* [Generative Art Extensive Links List](https://github.com/kosmos/awesome-generative-art)
 
 ## Processing flavors
-* [Java](http://processing.org/)
-* [Javascript P5.js](https://p5js.org/)
-* [Python](http://py.prbcessing.org/)
-* [P5.js Editor in the Browser](https://alpha.editor.p5js.org)
+* [Javascript, P5.js](https://p5js.org/)
+* [Reference for P5.js](https://p5js.org/reference/)
+* [Browser Editor for P5.js ](https://alpha.editor.p5js.org)
+* [Python Processing](http://py.prbcessing.org/)
+* [Java Processing](http://processing.org/) The original Processing language
 
 ## JavaScript and WebDev
 
-* [SVG Crowbar](https://nytimes.github.io/svg-crowbar/) extracting SVG's from websites
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
     - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [D3js](https://d3js.org/)
     - [API Reference](https://github.com/d3/d3/blob/master/API.md)
     - [Examples](https://github.com/d3/d3/wiki/Gallery)
 * [SVG by W3C](https://www.w3.org/TR/SVG/) 
+* [SVG Crowbar](https://nytimes.github.io/svg-crowbar/) extracting SVG's from websites
 * [CSSClasses](http://cssclass.es/materials/)
-* WebDev try and error in the browser [JSFiddle](http://jsfiddle.net/)
-* Vr in the browser [A-Frame](https://aframe.io)
-* Easy Intro to A-Frame[A-Frame School](https://aframe.io/aframe-school/)
-* Remix web apps[Glitch](https://glitch.com)
+* [JSFiddle](http://jsfiddle.net/) WebDev browser editor 
+* [A-Frame](https://aframe.io) Virtual Reality for the web with Javascript
+* [A-Frame School](https://aframe.io/aframe-school/) Easy Intro to A-Frame, follow the arrows
+* [Glitch](https://glitch.com) Remixing web apps online editor
 
 ## General Online Courses (Free)
 * [Coursera](https://www.coursera.org/)
 * [Kadenze](https://www.kadenze.com/)
 * [Codeacademy](https://www.codecademy.com/learn)
-* Youtube of course.
 
 ## Women in Code
 ### Ada Lovelace
-* [Stephen Wolfram's blog](http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
-* [Lego Proposal](https://io9.gizmodo.com/bring-back-victorian-science-with-this-lego-lovelace-b-1747433388?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow)
-* [Short Video](https://www.youtube.com/watch?v=uBbVbqRvqTM)
+* ["Untangling the Tale of Ada Lovelace"](http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/) by Stephen Wolfram
+* [Ada Lovelace: Great Minds Videoclip](https://www.youtube.com/watch?v=uBbVbqRvqTM) SciShow on youtube
+* [Lovelace Lego](https://io9.gizmodo.com/bring-back-victorian-science-with-this-lego-lovelace-b-1747433388?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow)
