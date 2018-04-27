@@ -1,9 +1,11 @@
-# Coding with Ada - Outline
+# Coding with Ada - WIP
 
 1. Women in Computing
 2. Programing Fundamentals | Concepts
 3. WebDev (HTML/CSS/JavaScript)
 4. Python
+5. Arduino
+6. Unity?
 
 # Women in Computing | Making
 
@@ -233,9 +235,12 @@ Links to images of language popularities, families and history.
 Note that the last two links tell us a slightly different story than what we saw in last week's video. Mainly that COBOL came in a year after FORTRAN and that Grace Hopper did not make COBOL but the basis for COBOL, which she called FLOW-MATIC. 
 
 * [Popular languages in 2015](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
-* [What are these langugaes used for?](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
+* [What are these languages used for?](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
 * [Language family tree](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
 * [History of programming languages](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
+
+# Raspberry Pi 
+
 
 # Upcoming topics
 ## WebDev 
