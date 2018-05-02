@@ -219,7 +219,7 @@ function make_portions(bowl)
 
 Links to images of language popularities, families and history. 
 
-Note that the last two links tell us a slightly different story than what we saw in last week's video. And other links say other things, so as we read in the article about Ada, history is not a clear cut story, it has many different participants telling it from thier perspective. It is up to us to look for the more reliable sources and decis which story or stories are the closest to the truth!
+Note that the last two links tell us a slightly different story than what we saw in last week's video. And other links say other things, so as we read in the article about Ada, history is not a clear cut story, it has many different participants telling it from their perspective. It is up to us to look for the more reliable sources and decis which story or stories are the closest to the truth!
 
 * [Popular languages in 2015](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
 * [What are these languages used for?](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)

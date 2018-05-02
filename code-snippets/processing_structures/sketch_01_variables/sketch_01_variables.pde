@@ -1,11 +1,13 @@
 String word01 = "Hello";
 String word02 = "World!";
-int number01 = 100;
+int  number01 = 100;
 int number02 = 50;
+float number03 = 20;
+
 boolean state = true;
 
 float sum = float(number01 / number02);
-String together = word01 + "   " + word02;
+String together = word01 + "         " + word02;
 
 print(word01, word02);
 print("\n");
@@ -14,4 +16,5 @@ print("\n");
 print(number01 + number02);
 print("\n");
 print(sum);
-print("\n" + together);
+println( together);
+println(number03);

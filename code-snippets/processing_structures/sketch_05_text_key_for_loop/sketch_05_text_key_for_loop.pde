@@ -1,4 +1,3 @@
-int keyboardInput = 0;
 
 void setup() {
   size (400, 400);
@@ -7,7 +6,6 @@ void setup() {
   strokeWeight(15);
   textSize(64);
 }
-
 
 void draw() {
 
