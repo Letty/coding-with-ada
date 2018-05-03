@@ -4,7 +4,7 @@
 import processing.pdf.*;
 
   //GLOBAL VARIABLES
-  PShape baseMap;
+PShape baseMap;
 String csv[];
 String myData[][];
 PFont  myFont;
@@ -27,7 +27,7 @@ void draw() {
   beginRecord(PDF, "ourCoolMap.pdf");
   shape(baseMap, 0, 0, width, height);
   for (int i=0; i<myData.length; i++) {
-    fill(255, 0, 0, 50);
+    fill(255, 0, 0, 100);
     noStroke();
     float graphLong = map(float(myData[i][3]), -180, 180, 0, width);
     float graphLat = map(float(myData[i][4]), 90, -90, 0, height);
