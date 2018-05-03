@@ -15,7 +15,7 @@ day-03-slides.md
 ### Bletchey Park, the War and computing
 * [Bletchley Park -- why it matters](https://www.youtube.com/watch?v=3Ky3-Tbkyhg)
 * [Jean Valentine's story](https://www.youtube.com/watch?v=HYNen5muQSE)
-* [IEEE Computer: Alan Turing at Bletchley Park](https://www.youtube.com/watch?v=5nK_ft0Lf1s)
+* [IEEE Computer: Alan Turing at Bletchley Park](https://youtu.be/5nK_ft0Lf1s)
 
 ## Processing Crashcourse
 

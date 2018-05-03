@@ -6,16 +6,30 @@
 * [Ada Lovelace: Great Minds Videoclip](https://www.youtube.com/watch?v=uBbVbqRvqTM) SciShow on youtube
 * [Lovelace Lego](https://io9.gizmodo.com/bring-back-victorian-science-with-this-lego-lovelace-b-1747433388?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow)
 
+## Grace Hopper
+* [Wikipedia](https://en.wikipedia.org/wiki/Grace_Hopper) 
+* :new: [HERstory in STEM Video](https://www.youtube.com/watch?v=S6sh8CxwWx8)
+* :new: [Grace Hopper speaks Video](https://youtu.be/qundvme1Tik?t=28m32s)
+
 ## Programing in general
 
-* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
-* [Stackoverflow for Questions](http://stackoverflow.com/)
+* [Popular languages in 2015](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
+* [What are these languages used for?](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
+* [Language family tree](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
+* [History of programming languages](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
+* [Video: 10 Programming Languages in ONLY 15 minutes!](https://youtu.be/7bE2mI4ePeU?t=30s)
+* [Programming Languages by speed](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
+* :new: [What Programming Language Should I Learn First?](https://www.youtube.com/watch?v=poJfwre2PIs)
+* :new: [Larry Wall: 5 Programming Languages Everyone Should Know](https://www.youtube.com/watch?v=LR8fQiskYII)
 
 ## General Online Courses (Free)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+* [Stackoverflow for Questions](http://stackoverflow.com/)
 * [Coursera](https://www.coursera.org/)
 * [Kadenze](https://www.kadenze.com/)
 * [Codeacademy](https://www.codecademy.com/learn)
-* [Codingground](https://tutorialspoint.com/codingground.htm) Online editor and tutorials for over 75 languages :new:
+* [Codingground](https://tutorialspoint.com/codingground.htm) Online editor and tutorials for over 75 languages 
+
 
 ## Creative Coding
 * [Creative Applications]()
@@ -47,7 +61,8 @@
 * [A-Frame School](https://aframe.io/aframe-school/) Easy Intro to A-Frame, follow the arrows
 * [Glitch](https://glitch.com) Remixing web apps online editor
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
- :new:
+ 
+ * [Webstorm "The smartest JavaScript Integrated Development Environment"](https://www.jetbrains.com/webstorm/) :new: (and free for students and teachers)
 
 ## Python 2D Graphics
 
@@ -60,7 +75,7 @@
 * [Generative Typography with Processing](http://www.creativeapplications.net/processing/generative-typography-processing-tutorial/)
 * [Generative Design Examples](http://www.generative-gestaltung.de/2/) Scroll to P.3. Type
 
-## Unity3D :new:
+## :new: Unity3D 
 * [Unity3D Creative Coding 101](https://www.youtube.com/playlist?list=PL64OnOdZ_3NGD4qvRucx7BpKUZ-IqGc0Q)
 * [Unity3D Creative Coding 201](https://www.youtube.com/watch?v=a-quaXuEdhU&list=PL64OnOdZ_3NF4iv53e8eG7t1erC1PgKx6)
 * [Brackeys: Unity3D Tutorials](https://www.youtube.com/user/Brackeys/playlists)
