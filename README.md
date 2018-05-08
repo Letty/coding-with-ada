@@ -2,12 +2,12 @@
 
 1. Women in Computing
 2. Programing Languages
-3. Processing Crashcourse
 
 Lectures:
 
 1. [Introduction](day-01-slides.md)
 2. [Programming Fundamentals](day-02.md)
+3. [Processing Crashcourse](day-03.md)
 
 # Women in Computing | Making
 

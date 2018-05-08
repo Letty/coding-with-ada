@@ -6,10 +6,15 @@
 * [Ada Lovelace: Great Minds Videoclip](https://www.youtube.com/watch?v=uBbVbqRvqTM) SciShow on youtube
 * [Lovelace Lego](https://io9.gizmodo.com/bring-back-victorian-science-with-this-lego-lovelace-b-1747433388?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow)
 
-## Grace Hopper
+### Grace Hopper
 * [Wikipedia](https://en.wikipedia.org/wiki/Grace_Hopper) 
-* :new: [HERstory in STEM Video](https://www.youtube.com/watch?v=S6sh8CxwWx8)
-* :new: [Grace Hopper speaks Video](https://youtu.be/qundvme1Tik?t=28m32s)
+* [HERstory in STEM Video](https://www.youtube.com/watch?v=S6sh8CxwWx8)
+* [Grace Hopper speaks Video](https://youtu.be/qundvme1Tik?t=28m32s)
+
+### Bletchey Park, the War and computing
+* [Bletchley Park -- why it matters](https://www.youtube.com/watch?v=3Ky3-Tbkyhg)
+* [Jean Valentine's story](https://www.youtube.com/watch?v=HYNen5muQSE)
+* [IEEE Computer: Alan Turing at Bletchley Park](https://youtu.be/5nK_ft0Lf1s)
 
 ## Programing in general
 
@@ -19,8 +24,9 @@
 * [History of programming languages](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
 * [Video: 10 Programming Languages in ONLY 15 minutes!](https://youtu.be/7bE2mI4ePeU?t=30s)
 * [Programming Languages by speed](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
-* :new: [What Programming Language Should I Learn First?](https://www.youtube.com/watch?v=poJfwre2PIs)
-* :new: [Larry Wall: 5 Programming Languages Everyone Should Know](https://www.youtube.com/watch?v=LR8fQiskYII)
+* [What Programming Language Should I Learn First?](https://www.youtube.com/watch?v=poJfwre2PIs)
+* [Larry Wall: 5 Programming Languages Everyone Should Know](https://www.youtube.com/watch?v=LR8fQiskYII)
+* [How to Teach Yourself Code, Ruby on Rails for Webapps](https://www.youtube.com/watch?v=T0qAjgQFR4c) 
 
 ## General Online Courses (Free)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
@@ -62,7 +68,7 @@
 * [Glitch](https://glitch.com) Remixing web apps online editor
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
  
- * [Webstorm "The smartest JavaScript Integrated Development Environment"](https://www.jetbrains.com/webstorm/) :new: (and free for students and teachers)
+ * [Webstorm "The smartest JavaScript Integrated Development Environment"](https://www.jetbrains.com/webstorm/) (and free for students and teachers)
 
 ## Python 2D Graphics
 
@@ -75,13 +81,20 @@
 * [Generative Typography with Processing](http://www.creativeapplications.net/processing/generative-typography-processing-tutorial/)
 * [Generative Design Examples](http://www.generative-gestaltung.de/2/) Scroll to P.3. Type
 
-## :new: Unity3D 
+## Unity3D 
 * [Unity3D Creative Coding 101](https://www.youtube.com/playlist?list=PL64OnOdZ_3NGD4qvRucx7BpKUZ-IqGc0Q)
 * [Unity3D Creative Coding 201](https://www.youtube.com/watch?v=a-quaXuEdhU&list=PL64OnOdZ_3NF4iv53e8eG7t1erC1PgKx6)
 * [Brackeys: Unity3D Tutorials](https://www.youtube.com/user/Brackeys/playlists)
 * [Matthew Hallberg: Unity3D Tutorials, AR and VR](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw/playlists)
 * [IndieSharp](https://www.youtube.com/user/Unity3DCoder/playlists)
 
-## Python Development :new:
+## Python Development
 * [Pycharm IDE](https://www.jetbrains.com/student/) Full professional development environment (free for students and teachers)
 * [Python Programming Song](https://www.youtube.com/watch?v=3UsKYsLSGpU)
+
+## Physical Computing :new:
+* [ISS Pointer Robot](http://www.instructables.com/id/ISS-Pointer-Robo/) Link contributed by Veronika Golyak
+
+## Wordpress and Xampp
+* [local server setup with Xampp](https://www.youtube.com/watch?v=85T6DrPiIY4&app=desktop) Link contributed by Leonie Schatter
+* [Making a Wordpress Theme from Scratch](https://www.youtube.com/watch?v=oTRZYnYQlmo) Link contributed by Leonie Schatter
