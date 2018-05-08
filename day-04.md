@@ -69,6 +69,7 @@ HTML is a Markup Language for Documents
     ```
 * **Block Element** `<div></div>` - Everything inside a div container is using the complete space from left to right and the hight of its content. Usefull for structuring html content.
 * **Inline Elements** `<span></span>` - Can be placed inside text or other Elements. Takes just the space to represent the content.
+* in HTML5 are some new Elements for structuring your website instead of using divs `header`, `footer`, `nav`, `aside`, `main`, `article`, `section`
 
 # CSS - Cascading Style Sheets
 
@@ -101,10 +102,22 @@ h1 {
 #submit-button:hover{
     background: #99000;
 }
-
 ```
+## Some Properties
 
+* `font-size`
+* `font-family` - change the actual font
+* `color` - font color
+* `background` - background color
+* `border` - border around a element
+* `margin` - space around elements, outside the border
+* `padding` - space arounf content of an element, inside the border
+* `width` and `height`
+* `display: flex` - Flexbox is very powerful for building websites and layout the content!
 
 # Links
 
-* [SelfHTML - german](https://wiki.selfhtml.org/wiki/HTML/Tutorials)
+* [SelfHTML (HTML and CSS) - german](https://wiki.selfhtml.org/wiki/Startseite)
+* [SelfHTML HTML5 Intro](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5-Seitenstrukturierung)
+* [Color Hex](http://www.color-hex.com/)
+* [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
