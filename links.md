@@ -103,3 +103,4 @@
 * [Meetup, best place to find coding events](https://www.meetup.com/)
 * [OpenTechSchool Berlin](http://www.opentechschool.org)
 * [Hackster.io, physical computing community](https://www.hackster.io/)
+* [Rails Girls, a Ruby on Rails community](http://railsgirls.com/)
