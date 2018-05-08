@@ -42,8 +42,31 @@
 * `<style>` - CSS Stylesheets inside html file
 * `<body>` - Contains all the content that a browser represents
 
-## Elements
+## Elements / Tags
 
+* **Headlines** `<h1>Hello World!</h1>` - Headlines are ordered from 1 to 6, a higher number means greater font size
+* **Paragraphs** `<p>Multiline Textblock..</p>`
+* **Line Break** `<br>` for Example inside a Paragraph
+* **Links** `<a href="URL">Text for the Link</a>`
+* **Image** `<img src="image.jpg" alt="Text to Show" width="50" height="50">` - Images have a source `src` for loading the picture, the dimensions `width & height` and it can also have a alternative text `alt` for hover or if the image file is missing
+* **Lists** 
+    Unordered List:
+    ```html
+    <ul>
+    <li>First Item</li>
+    <li>Second Item</li>
+    </ul>
+    ```
+
+    Ordered List:
+    ```html
+    <ol>
+    <li>First Item</li>
+    <li>Second Item</li>
+    </ol>
+    ```
+* **Block Element** `<div></div>` - Everything inside a div container is using the complete space from left to right and the hight of its content. Usefull for structuring html content
+* **Inline Elements** `<span></span>` - Can be placed inside text or other Elements. Takes just the space to represent the content.
 
 # Links
 
