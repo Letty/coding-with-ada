@@ -1,6 +1,8 @@
 # Basic HTML and CSS
 
-## Skeleton of a Website
+## HTML - Skeleton of a Website
+
+HTML is a Markup Language for Documents
 
 ```html
 <!DOCTYPE html>
@@ -65,8 +67,43 @@
     <li>Second Item</li>
     </ol>
     ```
-* **Block Element** `<div></div>` - Everything inside a div container is using the complete space from left to right and the hight of its content. Usefull for structuring html content
+* **Block Element** `<div></div>` - Everything inside a div container is using the complete space from left to right and the hight of its content. Usefull for structuring html content.
 * **Inline Elements** `<span></span>` - Can be placed inside text or other Elements. Takes just the space to represent the content.
+
+# CSS - Cascading Style Sheets
+
+* Rule-based Language for styling Documents
+* Rule-set are definded by a selector and a declaration block 
+```css
+selector {
+    property: value;
+}
+```
+
+```css
+/* select by html tag */
+h1 {
+    color: red;
+}
+
+/* select by class name */
+.container {
+    margin: 10px;
+}
+
+/* select by id (unique!) */
+#submit-button{
+    background: red;
+}
+
+/*  select by id and 
+    state of the element */
+#submit-button:hover{
+    background: #99000;
+}
+
+```
+
 
 # Links
 
