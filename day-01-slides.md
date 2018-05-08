@@ -9,15 +9,15 @@
   1. When : from next class, 14:00!
   2. Where : Same room, LW 126
   3. How long: 2 hour class plus mentoring
-3. Program content
-  1. General Programming
-  2. Processing
-  3. Arduino
-  4. Webstuff (HTML/Javascript)
-  5. Python
-  6. Women in Computing and our dear Ada (every session, one woman in computing history)
-4. Course conditions: practice, watch youtube/online course videos, open class mentoring or indiviual appointments.
-5. Visit the alumni event for inspiration (Studio NAND and Spaces of Play)
+3. Program content 
+    * General Programming
+    * Processing
+    * Arduino
+    * Webstuff (HTML/Javascript)
+    * Python
+4. Women in Computing and our dear Ada (every session, one woman in computing history)
+5. Course conditions: practice, watch youtube/online course videos, open class mentoring or indiviual appointments.
+6. Visit the alumni event for inspiration (Studio NAND and Spaces of Play)
 
 **Homework**
 
