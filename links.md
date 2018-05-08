@@ -11,7 +11,7 @@
 * [HERstory in STEM Video](https://www.youtube.com/watch?v=S6sh8CxwWx8)
 * [Grace Hopper speaks Video](https://youtu.be/qundvme1Tik?t=28m32s)
 
-### Bletchey Park, the War and computing
+### Bletchey Park, the War and computing :new:
 * [Bletchley Park -- why it matters](https://www.youtube.com/watch?v=3Ky3-Tbkyhg)
 * [Jean Valentine's story](https://www.youtube.com/watch?v=HYNen5muQSE)
 * [IEEE Computer: Alan Turing at Bletchley Park](https://youtu.be/5nK_ft0Lf1s)
@@ -95,6 +95,11 @@
 ## Physical Computing :new:
 * [ISS Pointer Robot](http://www.instructables.com/id/ISS-Pointer-Robo/) Link contributed by Veronika Golyak
 
-## Wordpress and Xampp
+## Wordpress and Xampp :new:
 * [local server setup with Xampp](https://www.youtube.com/watch?v=85T6DrPiIY4&app=desktop) Link contributed by Leonie Schatter
 * [Making a Wordpress Theme from Scratch](https://www.youtube.com/watch?v=oTRZYnYQlmo) Link contributed by Leonie Schatter
+
+## Events and Communities :new:
+* [Meetup, best place to find coding events](https://www.meetup.com/)
+* [OpenTechSchool Berlin](http://www.opentechschool.org)
+* [Hackster.io, physical computing community](https://www.hackster.io/)
