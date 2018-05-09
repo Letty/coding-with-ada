@@ -115,6 +115,11 @@ h1 {
 * `width` and `height`
 * `display: flex` - Flexbox is very powerful for building websites and layout the content!
 
+## CSS Frameworks
+
+* [Twitter Bootstrap](http://getbootstrap.com/)
+* [Bitters](http://bitters.bourbon.io/) and [Bourbon](https://www.bourbon.io/) Requires Ruby
+
 # Links
 
 * [SelfHTML (HTML and CSS) - german](https://wiki.selfhtml.org/wiki/Startseite)
