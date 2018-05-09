@@ -8,6 +8,7 @@ Lectures:
 1. [Introduction](day-01-slides.md)
 2. [Programming Fundamentals](day-02.md)
 3. [Processing Crashcourse](day-03.md)
+4. [HTML + CSS Intro](day-04.md)
 
 # Women in Computing | Making
 
