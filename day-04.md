@@ -1,3 +1,7 @@
+### Standup and Homework
+### Today's Woman in History
+Dame Stephanie Shirley 
+[Against all odds](https://www.youtube.com/watch?v=d5nzJ1rQBew)
 # Basic HTML and CSS
 
 ## HTML - Skeleton of a Website
