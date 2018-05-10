@@ -128,5 +128,7 @@ h1 {
 
 * [SelfHTML (HTML and CSS) - german](https://wiki.selfhtml.org/wiki/Startseite)
 * [SelfHTML HTML5 Intro](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5-Seitenstrukturierung)
+* [MDN Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+* [Can I Use - Check if HTML, JS and CSS is available in all browsers](https://caniuse.com/#search=grid)
 * [Color Hex](http://www.color-hex.com/)
 * [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
