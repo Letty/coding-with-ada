@@ -11,10 +11,16 @@
 * [HERstory in STEM Video](https://www.youtube.com/watch?v=S6sh8CxwWx8)
 * [Grace Hopper speaks Video](https://youtu.be/qundvme1Tik?t=28m32s)
 
-### Bletchey Park, the War and computing :new:
+### Bletchey Park, the War and computing 
 * [Bletchley Park -- why it matters](https://www.youtube.com/watch?v=3Ky3-Tbkyhg)
 * [Jean Valentine's story](https://www.youtube.com/watch?v=HYNen5muQSE)
 * [IEEE Computer: Alan Turing at Bletchley Park](https://youtu.be/5nK_ft0Lf1s)
+
+### Dame Stephanie Shirley :new:
+* [Freelance Programmer: the story of Dame Stephanie Shirley](https://www.youtube.com/watch?v=d5nzJ1rQBew)
+* [Freelance Programmers](https://en.wikipedia.org/wiki/Xansa)
+* [Steve Shirley](https://en.wikipedia.org/wiki/Steve_Shirley)
+
 
 ## Programing in general
 
@@ -92,15 +98,42 @@
 * [Pycharm IDE](https://www.jetbrains.com/student/) Full professional development environment (free for students and teachers)
 * [Python Programming Song](https://www.youtube.com/watch?v=3UsKYsLSGpU)
 
-## Physical Computing :new:
+## Physical Computing
 * [ISS Pointer Robot](http://www.instructables.com/id/ISS-Pointer-Robo/) Link contributed by Veronika Golyak
 
-## Wordpress and Xampp :new:
-* [local server setup with Xampp](https://www.youtube.com/watch?v=85T6DrPiIY4&app=desktop) Link contributed by Leonie Schatter
-* [Making a Wordpress Theme from Scratch](https://www.youtube.com/watch?v=oTRZYnYQlmo) Link contributed by Leonie Schatter
+## Wordpress and Xampp
+* [local server setup with Xampp](https://www.youtube.com/watch?v=85T6DrPiIY4&app=desktop) suggested by  Leonie Schatter
+* [Making a Wordpress Theme from Scratch](https://www.youtube.com/watch?v=oTRZYnYQlmo) suggested by Leonie Schatter
 
-## Events and Communities :new:
+## Events and Communities
 * [Meetup, best place to find coding events](https://www.meetup.com/)
 * [OpenTechSchool Berlin](http://www.opentechschool.org)
 * [Hackster.io, physical computing community](https://www.hackster.io/)
 * [Rails Girls, a Ruby on Rails community](http://railsgirls.com/)
+
+## Html and CSS :new:
+* [SelfHTML (HTML and CSS) - german](https://wiki.selfhtml.org/wiki/Startseite)
+* [SelfHTML HTML5 Intro](https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5-Seitenstrukturierung)
+* [MDN Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+* [Can I Use - Check if HTML, JS and CSS is available in all browsers](https://caniuse.com/#search=grid)
+* [Color Hex](http://www.color-hex.com/)
+* [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Froggy](http://flexboxfroggy.com/) suggested by Jonas Wolff
+* [Grid Garden](http://cssgridgarden.com/) suggested by Jonas Wolff
+
+## CSS Frameworks :new:
+* [Twitter Bootstrap](http://getbootstrap.com/)
+* [Bitters](http://bitters.bourbon.io/) and [Bourbon](https://www.bourbon.io/) Requires Ruby
+
+## Processing Resources :new:
+* [Mouse Functions](https://processing.org/examples/mousefunctions.html)
+* [Keyboard Functions](https://processing.org/examples/keyboardfunctions.html)
+* [2D Transformations (Rotation for example)](https://processing.org/tutorials/transform2d/)
+* [PVectors](https://processing.org/tutorials/pvector/)
+* [Making things grow or move back and forth](https://processing.org/tutorials/trig/)
+* [Two Dimensional Arrays](https://processing.org/tutorials/2darray/)
+* [Program Design](https://processing.org/tutorials/anatomy/)
+* [The Nature of Code](http://natureofcode.com/) (Vectors, Forces, Oscillations and more)
+* [Nature of Code Free Online Course by Daniel Shiffman](https://www.kadenze.com/courses/the-nature-of-code/info)
+* [Daniel Shiffman's The Coding Train Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/sessions)

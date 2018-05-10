@@ -132,3 +132,5 @@ h1 {
 * [Can I Use - Check if HTML, JS and CSS is available in all browsers](https://caniuse.com/#search=grid)
 * [Color Hex](http://www.color-hex.com/)
 * [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Grid Garden](http://cssgridgarden.com/)
