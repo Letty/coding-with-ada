@@ -9,6 +9,7 @@ Lectures:
 2. [Programming Fundamentals](day-02.md)
 3. [Processing Crashcourse](day-03.md)
 4. [HTML + CSS Intro](day-04.md)
+5. [JavaScript Intro](https://github.com/Letty/talks/blob/master/course_climate_scenarios/README.md)
 
 # Women in Computing | Making
 
