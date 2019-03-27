@@ -2,7 +2,7 @@
 
 ## Women in Code
 ### Ada Lovelace
-* ["Untangling the Tale of Ada Lovelace"](http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/) by Stephen Wolfram
+* [Untangling the Tale of Ada Lovelace](http://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/) by Stephen Wolfram
 * [Ada Lovelace: Great Minds Videoclip](https://www.youtube.com/watch?v=uBbVbqRvqTM) SciShow on youtube
 * [Lovelace Lego](https://io9.gizmodo.com/bring-back-victorian-science-with-this-lego-lovelace-b-1747433388?utm_campaign=socialflow_io9_facebook&utm_source=io9_facebook&utm_medium=socialflow)
 
@@ -88,8 +88,7 @@
 * [Generative Design Examples](http://www.generative-gestaltung.de/2/) Scroll to P.3. Type
 
 ## Unity3D 
-* [Unity3D Creative Coding 101](https://www.youtube.com/playlist?list=PL64OnOdZ_3NGD4qvRucx7BpKUZ-IqGc0Q)
-* [Unity3D Creative Coding 201](https://www.youtube.com/watch?v=a-quaXuEdhU&list=PL64OnOdZ_3NF4iv53e8eG7t1erC1PgKx6)
+* [Creative Coding with Unity](https://channel9.msdn.com/Series/UnityCreativeCoding)
 * [Brackeys: Unity3D Tutorials](https://www.youtube.com/user/Brackeys/playlists)
 * [Matthew Hallberg: Unity3D Tutorials, AR and VR](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw/playlists)
 * [IndieSharp](https://www.youtube.com/user/Unity3DCoder/playlists)
