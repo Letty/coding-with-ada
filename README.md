@@ -22,11 +22,7 @@ Lectures:
 
 # Programing Languages
 
-Links to images of language popularities, families and history. 
-
-* [Popular languages in 2015](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
-* [What are these languages used for?](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
-* [Language family tree](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
-* [History of programming languages](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
+* [Popular languages and their use in 2015](http://blog.mclaughlinsoftware.com/wp-content/uploads/2015/01/07dataflow-14036434246802.jpg)
+* [Programming Languages History and family tree](https://upload.wikimedia.org/wikipedia/commons/2/25/Genealogical_tree_of_programming_languages.svg)
 * [Video: 10 Programming Languages in ONLY 15 minutes!](https://youtu.be/7bE2mI4ePeU?t=30s)
 * [Programming Languages by speed](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
